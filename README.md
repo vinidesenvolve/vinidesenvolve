@@ -12,3 +12,5 @@ NodeJS and
 Express
 
 Be welcome and let's connect!
+
+Linkedin: https://www.linkedin.com/in/vinidesenvolve/
