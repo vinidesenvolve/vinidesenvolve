@@ -1,12 +1,14 @@
 Hi I'm Vini! 
 
-Currently studying and working as a Web Developer, focused on backend.
+I'm a Junior Sytems Developer and Analyst
 
-Some of the technologies I'm working with are
+Currently studying Web Developing, focused on backend.
 
-Java
-Spring
-NodeJS
+Some of the technologies I'm working on are:
+
+Java,
+Spring,
+NodeJS and
 Express
 
-Welcome and let's connect!
+Be welcome and let's connect!
