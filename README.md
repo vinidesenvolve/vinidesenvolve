@@ -1,4 +1,4 @@
-Hi I'm Vini! 
+#Hi I'm Vini!# 
 
 I'm a Junior Sytems Developer and Analyst
 
@@ -10,6 +10,7 @@ Java,
 Spring,
 NodeJS and
 Express
+
 
 Be welcome and let's connect!
 
