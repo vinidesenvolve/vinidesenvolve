@@ -1,6 +1,6 @@
 Hi I'm Vini!
 
-I'm a Junior Web Developer, focused on backend.
+I'm a Junior Web Developer, focused on back-end.
 
 Some of the technologies I'm currently working on are:
 
