@@ -8,6 +8,7 @@ Java,
 Spring,
 NodeJS and
 Express
+Mysql
 
 Be welcome and let's connect!
 
