@@ -1,14 +1,16 @@
 Hi I'm Vini!
 
-I'm a Junior Back-end Developer.
+I'm a System's Analyst.
+
+My preference is back-end development, but my goal is to become a Software Engineer.
 
 Some of the technologies I'm currently working on are:
 
-Java + Spring,
+Java and Spring
 
-JavaScript + NodeJS
+JavaScript
 
-Mysql
+Mysql / Postgre
 
 Be welcome and let's connect!
 
