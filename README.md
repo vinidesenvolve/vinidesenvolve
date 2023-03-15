@@ -1,14 +1,14 @@
 Hi I'm Vini!
 
-I'm a System's Analyst.
+I'm a System's Developer and Analyst.
 
-My preference is back-end development, but my goal is to become a Software Engineer.
+My focus is back-end development
 
 Some of the technologies I've been working on are:
 
 Java and Spring
 
-Mysql / SQL Oracle
+Mysql / Oracle
 
 Jenkins
 
